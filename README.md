@@ -1,2 +1,2 @@
-# elecbuy.netele
+# elecbuy.net
 elecbuy.net
